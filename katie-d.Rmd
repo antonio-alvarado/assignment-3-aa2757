@@ -1,0 +1,17 @@
+---
+title: "Katie"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Things about Katie
+
+- I am from Sheldon, Vermont (close to the Canadian border)
+<br>
+
+- I earned my Bachelor of Science at Syracuse University (Environmental Engineering)
+- I am pursuing my PhD at Cornell University (Biological and Environmental Engineering)
+- I have a yellow lab named Loona who just turned 1 year old in January
