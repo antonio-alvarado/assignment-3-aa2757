@@ -1,0 +1,15 @@
+---
+title: "Assignment 3 Website"
+output: html_document
+---
+
+## Collaborator names: 
+
+### Antonio Alvarado 
+- Github account link: https://github.com/antonio-alvarado
+
+### Katie Duggan 
+- Github account link: https://github.com/kld93
+
+
+![The Philadephia Sixers record is 21-11 and they are first in the Eastern Conference - woohoo!](https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.nj.com/home/njo-media/width2048/img/sixers_main/photo/nba-cleveland-cavaliers-at-philadelphia-76ers-23ef3ebc07968d60.jpg)
